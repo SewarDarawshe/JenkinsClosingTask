@@ -11,7 +11,7 @@ pipeline {
         
         stage('Build') {
             steps {
-                dir('JenkinsClosingTask/') {
+                dir('./') {
                     sh "chmod +x gradlew"
                     sh './gradlew build'
                 }
