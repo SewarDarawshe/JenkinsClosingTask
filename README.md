@@ -43,6 +43,6 @@ you should see in the stage view that the pipeline passed the stages :
 > This pipeline sends a slack notification,if you're intrested in sending one into your own slack channel, you have to setup the slack plugin pefore you run the jenkins file,
 use this link for more detailes :https://kunzleigh.com/creating-a-slack-notifier-using-jenkins-pipeline/
 
-![Screenshot](https://github.com/SewarDrawhe/JenkinsClosingTask/blob/master/slackNoti.png)
+![Screenshot](https://github.com/SewarDrawhe/JenkinsClosingTask/blob/master/slackNoti.PNG)
 
 
