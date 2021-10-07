@@ -28,7 +28,7 @@ java -jar ./build/libs/gradleRSSproject-1.0-SNAPSHOT.jar
 ```
 now you can access the app using : http://localhost:1999/  .
 
-<img width="1042" alt="screenshot" src="RSS.png"> 
+![Screenshot](RSS.png)
 
 ## ✨Jenkins CI/CD pipeline Job:
  This pipeline clones the project ,builds and runs it, and sends a slack notification.
@@ -37,12 +37,12 @@ now you can access the app using : http://localhost:1999/  .
 
 Now simply connect the pipeline to the github repository and import the Jenkinsfile . 
 you should see in the stage view that the pipeline passed the stages :
-<img width="1042" alt="screenshot" src="jenkinsStageview.png"> 
+![Screenshot](jenkinsStageview.png)
 
 
 > This pipeline sends a slack notification,if you're intrested in sending one into your own slack channel, you have to setup the slack plugin pefore you run the jenkins file,
 use this link for more detailes :https://kunzleigh.com/creating-a-slack-notifier-using-jenkins-pipeline/
 
-<img width="1042" alt="screenshot" src="slackNoti.png"> 
+![Screenshot](slackNoti.png)
 
 
