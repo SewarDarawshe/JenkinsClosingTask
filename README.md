@@ -37,12 +37,12 @@ now you can access the app using : http://localhost:1999/  .
 
 Now simply connect the pipeline to the github repository and import the Jenkinsfile . 
 you should see in the stage view that the pipeline passed the stages :
-![Screenshot](jenkinsStageview.png)
+![Screenshot](https://github.com/SewarDrawhe/JenkinsClosingTask/blob/master/RSS.PNG)
 
 
 > This pipeline sends a slack notification,if you're intrested in sending one into your own slack channel, you have to setup the slack plugin pefore you run the jenkins file,
 use this link for more detailes :https://kunzleigh.com/creating-a-slack-notifier-using-jenkins-pipeline/
 
-![Screenshot](slackNoti.png)
+![Screenshot](https://github.com/SewarDrawhe/JenkinsClosingTask/blob/master/slackNoti.png)
 
 
