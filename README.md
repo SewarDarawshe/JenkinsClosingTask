@@ -28,7 +28,7 @@ java -jar ./build/libs/gradleRSSproject-1.0-SNAPSHOT.jar
 ```
 now you can access the app using : http://localhost:1999/  .
 
-![Screenshot](RSS.png)
+https://github.com/SewarDrawhe/JenkinsClosingTask/blob/master/jenkinsStageview.PNG
 
 ## ✨Jenkins CI/CD pipeline Job:
  This pipeline clones the project ,builds and runs it, and sends a slack notification.
