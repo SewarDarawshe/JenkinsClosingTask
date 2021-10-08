@@ -39,6 +39,7 @@ now you can access the app using : http://localhost:1999/  .
 
 Now simply connect the pipeline to the github repository and import the Jenkinsfile . 
 you should see in the stage view that the pipeline passed the stages :
+
 ![Screenshot](https://github.com/SewarDrawhe/JenkinsClosingTask/blob/master/jenkinsStageview.PNG)
 
 
