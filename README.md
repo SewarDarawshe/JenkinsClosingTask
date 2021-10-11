@@ -21,7 +21,7 @@ containing 3 classes:
 Build a jar file and run it from the command line:
 
 ```sh
-git clone https://github.com/SewarDrawhe/JenkinsClosingTask.git
+git clone https://github.com/SewarDarawshe/JenkinsClosingTask.git
 cd gradleRSSproject
 ./gradlew  build
 java -jar ./build/libs/gradleRSSproject-1.0-SNAPSHOT.jar
